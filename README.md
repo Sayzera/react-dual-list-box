@@ -92,6 +92,8 @@ function App() {
     </ThemeProvider>
   );
 }
+
+export default App
 ```
 
 ### With Custom Styling
