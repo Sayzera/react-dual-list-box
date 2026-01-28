@@ -1,0 +1,36 @@
+# Source files
+src/
+*.tsx
+*.ts
+!dist/**/*.d.ts
+
+# Development files
+.vscode/
+.idea/
+*.log
+*.local
+
+# Build tools
+vite.config.ts
+tsconfig.json
+tsconfig.node.json
+
+# Git
+.git/
+.gitignore
+
+# Dependencies
+node_modules/
+
+# Test files
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Documentation - README.md is included via package.json "files" field
+
+# Example files
+example/
+examples/
+demo/
