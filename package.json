@@ -18,6 +18,21 @@
     "README.md",
     "LICENSE"
   ],
+  "keywords": [
+    "react",
+    "dual-list-box",
+    "list-box",
+    "transfer-list",
+    "virtualized",
+    "virtualization",
+    "material-ui",
+    "mui",
+    "search",
+    "permission-management",
+    "selection",
+    "typescript",
+    "react-component"
+  ],
   "readme": "README.md",
   "sideEffects": false,
   "scripts": {
