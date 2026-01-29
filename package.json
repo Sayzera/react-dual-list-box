@@ -1,6 +1,6 @@
 {
   "name": "react-dual-list-box2",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A React dual list box component with virtualization, search, and Material UI styling",
   "type": "module",
   "main": "./dist/react-dual-list-box2.umd.js",
